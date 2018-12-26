@@ -1,0 +1,11 @@
+C:\Source\UDP\UDPNumberSenderBroad\UDPNumberSenderBroad\bin\Debug\netcoreapp2.1\UDPNumberSenderBroad.deps.json
+C:\Source\UDP\UDPNumberSenderBroad\UDPNumberSenderBroad\bin\Debug\netcoreapp2.1\UDPNumberSenderBroad.runtimeconfig.json
+C:\Source\UDP\UDPNumberSenderBroad\UDPNumberSenderBroad\bin\Debug\netcoreapp2.1\UDPNumberSenderBroad.runtimeconfig.dev.json
+C:\Source\UDP\UDPNumberSenderBroad\UDPNumberSenderBroad\bin\Debug\netcoreapp2.1\UDPNumberSenderBroad.dll
+C:\Source\UDP\UDPNumberSenderBroad\UDPNumberSenderBroad\bin\Debug\netcoreapp2.1\UDPNumberSenderBroad.pdb
+C:\Source\UDP\UDPNumberSenderBroad\UDPNumberSenderBroad\obj\Debug\netcoreapp2.1\UDPNumberSenderBroad.csprojAssemblyReference.cache
+C:\Source\UDP\UDPNumberSenderBroad\UDPNumberSenderBroad\obj\Debug\netcoreapp2.1\UDPNumberSenderBroad.csproj.CoreCompileInputs.cache
+C:\Source\UDP\UDPNumberSenderBroad\UDPNumberSenderBroad\obj\Debug\netcoreapp2.1\UDPNumberSenderBroad.AssemblyInfoInputs.cache
+C:\Source\UDP\UDPNumberSenderBroad\UDPNumberSenderBroad\obj\Debug\netcoreapp2.1\UDPNumberSenderBroad.AssemblyInfo.cs
+C:\Source\UDP\UDPNumberSenderBroad\UDPNumberSenderBroad\obj\Debug\netcoreapp2.1\UDPNumberSenderBroad.dll
+C:\Source\UDP\UDPNumberSenderBroad\UDPNumberSenderBroad\obj\Debug\netcoreapp2.1\UDPNumberSenderBroad.pdb
